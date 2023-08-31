@@ -8,7 +8,7 @@ git clone http://github.com/Montasir000/IP-Info
 
 ls
 
-cd my
+cd IP-Info
 
 ls
 
